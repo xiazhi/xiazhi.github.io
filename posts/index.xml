@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 小白的世界</title>
+        <link>https://www.xiaobaiworld.com/posts/</link>
+        <description>所有文章 | 小白的世界</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 28 Jan 2021 20:04:45 &#43;0800</lastBuildDate><atom:link href="https://www.xiaobaiworld.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Seonc_post</title>
+    <link>https://www.xiaobaiworld.com/posts/seonc_post/</link>
+    <pubDate>Thu, 28 Jan 2021 20:04:45 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://www.xiaobaiworld.com/posts/seonc_post/</guid>
+    <description><![CDATA[不行吗&hellip;&hellip;]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>https://www.xiaobaiworld.com/posts/first_post/</link>
+    <pubDate>Thu, 28 Jan 2021 15:22:11 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://www.xiaobaiworld.com/posts/first_post/</guid>
+    <description><![CDATA[zhao dco le 美味]]></description>
+</item></channel>
+</rss>
